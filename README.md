@@ -22,11 +22,11 @@ Cómo instalar y ejecutar la aplicación ⚙️
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/currency-converter-app.git
+    git clone https://github.com/WuilliamsGonzalez/Challenge-Convertidor-de-monedas.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd currency-converter-app
+    cd ConvertidordeMonedas
     ```
 3. Asegúrate de tener instalado Java:
     ```bash

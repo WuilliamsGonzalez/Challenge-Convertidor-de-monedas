@@ -2,7 +2,8 @@
 
 Descripción 📝
 
-Bienvenids a la **App Conversor de Monedas**, una aplicación Java sencilla que te permite convertir monedas utilizando una API de tasas de cambio en tiempo real. ¡Rápido, fácil y eficiente!
+Bienvenidos(as) Esta aplicación te permite hacer la conversión de monedas muy fácilmente. Puedes hacerlo con diferentes divisas, y si prefieres puedes agregar otras ya que está conectada
+con la API de Exchange Rate. ¡Espero te guste!
 
  Características 🚀
 
@@ -11,7 +12,7 @@ Bienvenids a la **App Conversor de Monedas**, una aplicación Java sencilla que 
   - Pesos mexicanos (MXN)
   - Pesos argentinos (ARS)
   - Reales brasileños (BRL)
-  - Pesos colombianos (COP)
+  - Pesos chilenos (CLP)
 - Consultas de tasas de cambio en tiempo real 🌐.
 - Conversión rápida entre monedas con solo ingresar una cantidad y la moneda deseada.
 - Generación de archivos JSON con las tasas de cambio actuales.
